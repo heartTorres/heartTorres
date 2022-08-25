@@ -1,7 +1,8 @@
+
+
+<img src="https://github.com/heartTorres/heartTorres/blob/main/MyLogo.png" alt="towerBanner" width="500" height="500"/>
+
 ### Hi there 👋 I'm Torres
-
-
-<img src="https://github.com/heartTorres/heartTorres/blob/main/assets/86558001-6c2c78d3-ab2f-412d-969a-93ddea72467f.png" alt="towerBanner" width="200"/>
 
 - 🔭 I’m currently working on web development and devops task
 - 🌱 I’m currently learning kafka, elasticsearch and python
